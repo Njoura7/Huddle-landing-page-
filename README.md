@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot.png)
 
 ### Links
 
@@ -51,6 +51,11 @@ Users should be able to:
 	background-attachment: fixed;
 	/* eventhough it seems like I didn't need it in the end but it was helpfull through the process and I will definetly use it in the future */
 }
+
+.proud-of-this-css2 {
+	filter: brightness(0) invert(1);
+}
+/* this helped me to change the color of the given logo without the need of another logo which I will definetly need in my future project */
 ```
 
 I also discovered this great source which i will defenitely use for my next documentation :
@@ -62,16 +67,14 @@ I need to focus more with the Flexbox tools even though I did well, but there is
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Example resource 1](https://www.youtube.com) - YouTube as always is a helpfullresource for fixing bugs here and there.
+- [Example resource 2](https://fontawesome.com) - I Used fontawsome for icons.
 
 ## Author
 
-- Github - [Aziz Najjar(Njoura)](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [@Njoura7](https://github.com/Njoura7)
+- Frontend Mentor - [@Njoura7](https://www.frontendmentor.io/profile/Njoura7)
+- LinkedIn - [@Aziz_Najjar](https://www.linkedin.com/in/aziz-najjar-400672200/)
 
 ## Acknowledgments
 
