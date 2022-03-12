@@ -186,7 +186,7 @@ nav {
 
 .header-parag {
 	font-size: 1.25rem;
-	font-weight: normal;
+	font-weight: 600;
 	margin: 2rem 0;
 }
 .header-btn {
@@ -278,8 +278,8 @@ article {
 	}
 	.header-parag {
 		width: 100%;
-		font-size: 1.2rem;
-		font-weight: 500;
+		font-size: 1rem;
+		font-weight: 700;
 	}
 	.div1 {
 		height: 40%;
@@ -310,7 +310,13 @@ main {
 .img1,
 .img2,
 .img3 {
-	width: 13rem;
+	width: 20rem;
+}
+.parag1,
+.parag2,
+.parag3 {
+	font-size: 1.15rem;
+	font-weight: 300;
 }
 .section1,
 .section2,
@@ -321,7 +327,7 @@ main {
 	flex-direction: row;
 	box-shadow: var(--shadow-4);
 	margin: 2rem 0;
-	height: 200px;
+	height: 400px;
 	width: 75%;
 	padding: 0rem 3rem;
 	background: white;
@@ -436,7 +442,7 @@ ul li a {
 }
 
 .inbetween {
-	width: 70%;
+	width: 60%;
 	height: 200px;
 	background: white;
 	position: absolute;
